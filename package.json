@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirriee/Business-Website-Node.git"
+  },
+  "author": "\u001b[B\u001b[A\u001b[A\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirriee/Business-Website-Node/issues"
+  },
+  "homepage": "https://github.com/Kirriee/Business-Website-Node#readme"
+}
