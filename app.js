@@ -1,17 +1,12 @@
+// require libraries
+
 const express = require ('express')
 const app = express ();
 
-
-// app.get('/', function (request, response) { 
-// 	response.send ("hHallooo")
-// })
-
+// servering static files
 app.use(express.static('public', {
 	index: 'home.html'
 }));
 
-// <!-- function log{
-// 	console.log("listening on port 3000")
-// }
- -->
+// start server
 app.listen(3000)
